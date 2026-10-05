@@ -1,4 +1,11 @@
 venv/
+.venv/
 modeller_env/
 __pycache__/
 *.pyc
+*.log
+*.gif
+*.png
+*.csv
+.DS_Store
+.idea/
